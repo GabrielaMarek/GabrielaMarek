@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there! 👋 I'm Gabriela Marek
 
-<!--
-**GabrielaMarek/GabrielaMarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year student at UITM in Rzeszów, passionate about C# and .NET development. I have experience working with Entity Framework and SQL.
 
-Here are some ideas to get you started:
+🌱 Currently, I'm eager to dive deeper into software development and gain practical experience through internships or entry-level positions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C#
+- .NET
+- Entity Framework
+- SQL
+
+## Contact Me
+📧 Feel free to reach out to me at gabrielamarek02@gmail.com for any opportunities or collaborations.
+
+
