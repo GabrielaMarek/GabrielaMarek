@@ -6,7 +6,6 @@ I'm a second-year student at UITM in Rzeszów, passionate about C# and .NET deve
 #
 <h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielamarek&show_icons=true&locale=en&layout=compact" alt="gabrielamarek" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielamarek&show_icons=true&locale=en" alt="gabrielamarek" /></p>
 </h3>
 
 #
