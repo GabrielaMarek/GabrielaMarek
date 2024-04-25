@@ -7,3 +7,4 @@ I'm a second-year student at UITM in Rzeszów.
 <h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielamarek&show_icons=true&locale=en&layout=compact" alt="gabrielamarek" /></p>
 </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielamarek&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielamarek" /> </p>
