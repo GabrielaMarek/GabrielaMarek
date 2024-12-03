@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Gabriela Marek
 
-I'm a second-year student at UITM in Rzeszów.
+I'm a third-year student at UITM in Rzeszów.
 
 🌱 Currently, I'm eager to dive deeper into software development and gain practical experience through internships or entry-level positions.
 #
